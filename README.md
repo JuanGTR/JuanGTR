@@ -7,7 +7,7 @@ Software Developer
 Frontend oriented software developer seeking opportunities where I can contribute my clean, efficient, and scalable code to meaningful projects.
 
 * 🌍  I'm based in Pennsylvania
-* 🖥️  See my portfolio at [MyPortfolio](http://juangtr.github.io/e-portfolio-v2/)
+* 🖥️  See my portfolio at [MyPortfolio](https://portfolio-v3-ten-delta.vercel.app/)
 * ✉️  You can contact me at [juantejeda2406@gmail.com](mailto:juantejeda2406@gmail.com)
 
 ### Skills
